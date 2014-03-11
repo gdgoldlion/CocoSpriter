@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>mon_torso/torso_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{180,189}}</string>
+                <key>offset</key>
+                <string>{0,-4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,8},{180,189}}</string>
+                <key>sourceSize</key>
+                <string>{180,197}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>mon_torso.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b17356d212d63d42a2a9f79a7af4a11d$</string>
+            <key>textureFileName</key>
+            <string>mon_torso.png</string>
+        </dict>
+    </dict>
+</plist>
